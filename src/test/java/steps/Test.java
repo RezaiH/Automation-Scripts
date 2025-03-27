@@ -32,5 +32,10 @@ public class Test {
 			String password = ss.get("password");
 		}
 	}
-	
+	public static void showDetails() {
+		System.out.println("At the moment there is no details to be shown!");
+	}
+	public static void printDetails() {
+		showDetails();
+	}
 }
