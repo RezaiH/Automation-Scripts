@@ -35,8 +35,8 @@ Feature: Verify the login functionality of the website
     When User clicks on My Account tab
     And User clicks on Login option
     Then User is navigated to the Account Login page
-    When User enters the email "aseelaJan@gmail.com" in the email input field
-    And User enters the password "aseela1" in the password input field
+    When User enters the email "habibi1@gmail.com" in the email input field
+    And User enters the password "habibi" in the password input field
     And User clicks on the Login button
     Then User is navigated to the My Account page
 
@@ -60,7 +60,7 @@ Feature: Verify the login functionality of the website
     And User clicks on Continue button
     Then User gets the success message "Success: Your account has been successfully updated."
 
-	@createMultipleAccounts  @smoke  # done
+	@createMultipleAccounts  @smoke  @run     # done 
   Scenario Outline: Verify user can create accounts on the website
     Given User is on the website homepage
     When User clicks on My Account tab
@@ -79,12 +79,12 @@ Feature: Verify the login functionality of the website
 
     Examples: 
       | firstName     | lastName    | email                    | telephoneNumber | password      | confirmPassword |
-      | "Mudaser"     | "Musakhail" | "mudaser2@gmail.com"      |      2021111111 | "mudaser1"    | "mudaser1"      |
-      | "Naweed"      | "Musakhail" | "naweed2@gmail.com"       |      2022222222 | "naweed1"     | "naweed1"       |
-      | "Nazeer"      | "Musakhail" | "nazeer2@hotmail.com"     |      2023333333 | "nazeer1"     | "nazeer1"       |
-      | "Mahdi"       | "Hussaini"  | "mahdi2@outlook.com"      |      2024444444 | "mahdi1"      | "mahdi1"        |
-      | "Ali Hussain" | "Hussaini"  | "aliHussain2@hotmail.com" |      2025555555 | "aliHussain1" | "aliHussain1"   |
-      | "Ahmad"       | "Hussain"   | "ahmad2@yahoo.com"        |      2026666666 | "ahmad1"      | "ahmad1"        |
+      | "Mudaser"     | "Musakhail" | "mudaser3@gmail.com"      |      2021111111 | "mudaser1"    | "mudaser1"      |
+      | "Naweed"      | "Musakhail" | "naweed3@gmail.com"       |      2022222222 | "naweed1"     | "naweed1"       |
+      | "Nazeer"      | "Musakhail" | "nazeer3@hotmail.com"     |      2023333333 | "nazeer1"     | "nazeer1"       |
+      | "Mahdi"       | "Hussaini"  | "mahdi3@outlook.com"      |      2024444444 | "mahdi1"      | "mahdi1"        |
+      | "Ali Hussain" | "Hussaini"  | "aliHussain3@hotmail.com" |      2025555555 | "aliHussain1" | "aliHussain1"   |
+      | "Ahmad"       | "Hussain"   | "ahmad3@yahoo.com"        |      2026666666 | "ahmad1"      | "ahmad1"        |
       
       
    @userMultipleLogins  @smoke   # done

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.381" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-27T20:46:11.964231400Z">
+<testcase classname="Verify the login functionality of the website" name="Verify user can log in into the application with valid credentials" time="13.221">
+<system-out><![CDATA[
+Given User is on the website homepage.......................................passed
+When User clicks on My Account tab..........................................passed
+And User clicks on Login option.............................................passed
+Then User is navigated to the Account Login page............................passed
+When User enters the email "habibi1@gmail.com" in the email input field.....passed
+And User enters the password "habibi" in the password input field...........passed
+And User clicks on the Login button.........................................passed
+Then User is navigated to the My Account page...............................passed
+]]></system-out>
+</testcase>
+</testsuite>

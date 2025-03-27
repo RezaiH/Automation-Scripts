@@ -4,3 +4,376 @@
 2025-03-27 14:11:26 [main] INFO  steps.LoginSteps - user clicked on My Account tab
 2025-03-27 14:11:28 [main] INFO  steps.LoginSteps - user clicked on Register option
 2025-03-27 14:11:29 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:00:51 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:00:51 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create an account on the website
+2025-03-27 15:00:54 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:00:55 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:00:57 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:00:58 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:01:00 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:01:01 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:01:02 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:01:03 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:01:04 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:01:05 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:01:06 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:01:08 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:01:10 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:01:11 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:01:11 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:01:12 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:01:12 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create an account on the website
+2025-03-27 15:01:15 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:01:16 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:01:18 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:01:19 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:01:28 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:01:28 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:01:29 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:01:29 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can log in into the application with valid credentials
+2025-03-27 15:01:31 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:01:32 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:01:34 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:01:35 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:01:36 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:01:37 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:01:38 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:01:39 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:01:40 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:01:41 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:01:41 [main] INFO  hooks.Hook - Starting Test Setup: Verify user cannot log in into the application with invlaid password
+2025-03-27 15:01:43 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:01:44 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:01:46 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:01:47 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:01:48 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:01:49 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:01:50 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:01:51 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:01:51 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:01:51 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:01:53 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:01:53 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can update the created account
+2025-03-27 15:02:04 [main] INFO  steps.MyAccountInformationSteps - user clicked on Edit your account information link
+2025-03-27 15:02:06 [main] INFO  steps.MyAccountInformationSteps - user updated the first name
+2025-03-27 15:02:08 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:02:09 [main] INFO  steps.MyAccountInformationSteps - Assertion Passed
+2025-03-27 15:02:09 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:02:09 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:02:10 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:02:10 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:02:12 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:02:13 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:02:15 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:02:16 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:02:18 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:02:19 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:02:20 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:02:21 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:02:22 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:02:23 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:02:24 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:02:26 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:02:28 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:02:29 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:02:29 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:02:30 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:02:30 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:02:32 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:02:33 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:02:35 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:02:36 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:02:38 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:02:39 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:02:40 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:02:41 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:02:42 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:02:43 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:02:44 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:02:46 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:02:48 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:02:49 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:02:49 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:02:50 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:02:50 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:02:53 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:02:54 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:02:56 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:02:57 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:02:59 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:03:00 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:03:01 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:03:02 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:03:03 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:03:04 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:03:06 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:03:07 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:03:09 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:03:10 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:03:10 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:03:11 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:03:11 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:03:13 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:03:14 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:03:16 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:03:17 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:03:19 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:03:20 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:03:21 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:03:22 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:03:23 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:03:24 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:03:25 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:03:27 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:03:29 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:03:30 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:03:30 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:03:31 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:03:31 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:03:33 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:03:34 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:03:36 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:03:37 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:03:39 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:03:40 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:03:41 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:03:42 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:03:43 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:03:44 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:03:46 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:03:47 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:03:49 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:03:50 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:03:50 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:03:51 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:03:51 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:03:53 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:03:54 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:03:56 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:03:57 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:03:59 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:04:00 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:04:01 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:04:02 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:04:03 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:04:04 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:04:06 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:04:07 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:04:09 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:04:10 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:04:10 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:04:11 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:04:11 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:04:13 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:04:14 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:04:16 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:04:17 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:04:18 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:04:19 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:04:21 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:04:22 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:22 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:22 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:04:22 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:04:23 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:04:23 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:04:25 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:04:27 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:04:28 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:04:29 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:04:30 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:04:31 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:04:33 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:04:34 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:34 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:34 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:04:34 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:04:35 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:04:35 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:04:38 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:04:39 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:04:40 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:04:41 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:04:42 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:04:43 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:04:44 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:04:45 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:45 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:45 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:04:45 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:04:46 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:04:46 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:04:49 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:04:50 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:04:51 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:04:52 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:04:53 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:04:54 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:04:55 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:04:56 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:56 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:04:56 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:04:56 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:04:57 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:04:57 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:05:00 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:05:01 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:05:02 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:05:03 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:05:05 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:05:06 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:05:08 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:05:09 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:05:09 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:05:09 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:05:09 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:05:11 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:05:11 [main] INFO  hooks.Hook - Starting Test Setup: Verify multiple users can login into the application
+2025-03-27 15:05:13 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:05:15 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:05:16 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:05:17 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:05:18 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:05:19 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:05:21 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:05:22 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:05:22 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:05:22 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:05:22 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:05:23 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:05:23 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can logout from the application successfully
+2025-03-27 15:05:25 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:05:26 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:05:28 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 15:05:29 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 15:05:30 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:05:31 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:05:32 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 15:05:45 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:05:45 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:52:57 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:52:57 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:52:59 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:53:00 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:53:02 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:53:03 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:53:05 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:53:06 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:53:07 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:53:08 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:53:09 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:53:11 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:53:12 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:53:13 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:53:15 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:53:16 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:53:16 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:53:17 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:53:17 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:53:20 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:53:21 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:53:23 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:53:24 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:53:26 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:53:27 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:53:28 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:53:29 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:53:30 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:53:31 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:53:33 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:53:34 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:53:36 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:53:37 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:53:37 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:53:38 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:53:38 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:53:41 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:53:42 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:53:44 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:53:45 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:53:47 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:53:48 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:53:49 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:53:50 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:53:52 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:53:53 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:53:54 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:53:55 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:53:57 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:53:58 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:53:58 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:53:59 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:53:59 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:54:01 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:54:02 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:54:04 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:54:05 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:54:08 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:54:09 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:54:10 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:54:11 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:54:12 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:54:13 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:54:14 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:54:15 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:54:17 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:54:18 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:54:18 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:54:19 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:54:19 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:54:22 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:54:23 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:54:25 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:54:26 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:54:28 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:54:29 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:54:30 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:54:31 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:54:32 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:54:33 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:54:34 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:54:35 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:54:38 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:54:39 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:54:39 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 15:54:40 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 15:54:40 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create accounts on the website
+2025-03-27 15:54:42 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 15:54:43 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 15:54:46 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 15:54:47 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 15:54:49 [main] INFO  steps.LoginSteps - user entered first name
+2025-03-27 15:54:50 [main] INFO  steps.LoginSteps - user entered last name
+2025-03-27 15:54:51 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 15:54:52 [main] INFO  steps.LoginSteps - user entered telephone number
+2025-03-27 15:54:53 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 15:54:54 [main] INFO  steps.LoginSteps - user re-entered the password
+2025-03-27 15:54:55 [main] INFO  steps.LoginSteps - user clicked on Yes button
+2025-03-27 15:54:56 [main] INFO  steps.LoginSteps - user checked the Privacy Policy checkbox
+2025-03-27 15:54:58 [main] INFO  steps.LoginSteps - user clicked on Continue button
+2025-03-27 15:54:59 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 15:54:59 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 16:41:30 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 16:41:30 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can log in into the application with valid credentials
+2025-03-27 16:41:33 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 16:41:34 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 16:41:35 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 16:41:36 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 16:41:37 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 16:41:39 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 16:41:40 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 16:41:41 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 16:41:41 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 16:46:13 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 16:46:13 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can log in into the application with valid credentials
+2025-03-27 16:46:16 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 16:46:17 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 16:46:18 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 16:46:19 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 16:46:20 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 16:46:21 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 16:46:23 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 16:46:24 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 16:46:24 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 16:46:24 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 16:46:25 [main] INFO  base.BaseTest - Closing Browser
