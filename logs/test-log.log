@@ -1,0 +1,6 @@
+2025-03-27 14:11:23 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 14:11:23 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can create an account on the website
+2025-03-27 14:11:25 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27 14:11:26 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 14:11:28 [main] INFO  steps.LoginSteps - user clicked on Register option
+2025-03-27 14:11:29 [main] INFO  steps.LoginSteps - Assertion Passed
