@@ -38,4 +38,9 @@ public class Test {
 	public static void printDetails() {
 		showDetails();
 	}
+	
+	public static void caller() {
+		showDetails();
+		printDetails();
+	}
 }
