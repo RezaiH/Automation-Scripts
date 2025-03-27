@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="16.057" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="29.191" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\hussa\AppData\Local\Temp\surefire3008083179864035171\surefirebooter-20250327164611140_3.jar C:\Users\hussa\AppData\Local\Temp\surefire3008083179864035171 2025-03-27T16-46-10_838-jvmRun1 surefire-20250327164611140_1tmp surefire_0-20250327164611140_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\hussa\AppData\Local\Temp\surefire11596481650959921902\surefirebooter-20250327171000313_3.jar C:\Users\hussa\AppData\Local\Temp\surefire11596481650959921902 2025-03-27T17-09-59_998-jvmRun1 surefire-20250327171000313_1tmp surefire_0-20250327171000313_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Framework-Practice\Automation-Project-CICD\target\test-classes;C:\Framework-Practice\Automation-Project-CICD\target\classes;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-java\4.29.0\selenium-java-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-api\4.29.0\selenium-api-4.29.0.jar;C:\Users\hussa\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.29.0\selenium-chrome-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.29.0\selenium-chromium-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-json\4.29.0\selenium-json-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.29.0\selenium-manager-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v131\4.29.0\selenium-devtools-v131-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v132\4.29.0\selenium-devtools-v132-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v133\4.29.0\selenium-devtools-v133-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.29.0\selenium-devtools-v85-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.29.0\selenium-edge-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.29.0\selenium-firefox-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-http\4.29.0\selenium-http-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.29.0\selenium-ie-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.29.0\selenium-remote-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\com\google\guava\guava\33.4.0-jre\guava-33.4.0-jre.jar;C:\Users\hussa\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\hussa\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\hussa\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\hussa\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\hussa\.m2\repository\com\google\errorprone\error_prone_annotations\2.36.0\error_prone_annotations-2.36.0.jar;C:\Users\hussa\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-api\1.46.0\opentelemetry-api-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-context\1.46.0\opentelemetry-context-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.46.0\opentelemetry-exporter-logging-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.46.0\opentelemetry-sdk-common-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.46.0\opentelemetry-sdk-extension-autoconfigure-spi-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.46.0\opentelemetry-sdk-extension-autoconfigure-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.46.0-alpha\opentelemetry-api-incubator-1.46.0-alpha.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.46.0\opentelemetry-sdk-trace-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.46.0\opentelemetry-sdk-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.46.0\opentelemetry-sdk-metrics-1.46.0.jar;C:\Users\hussa\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.46.0\opentelemetry-sdk-logs-1.46.0.jar;C:\Users\hussa\.m2\repository\net\bytebuddy\byte-buddy\1.15.11\byte-buddy-1.15.11.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-os\4.29.0\selenium-os-4.29.0.jar;C:\Users\hussa\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.29.0\selenium-safari-driver-4.29.0.jar;C:\Users\hussa\.m2\repository\org\seleniumhq\selenium\selenium-support\4.29.0\selenium-support-4.29.0.jar;C:\Users\hussa\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\hussa\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\hussa\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-java\7.21.1\cucumber-java-7.21.1.jar;C:\Users\hussa\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-core\7.21.1\cucumber-core-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-gherkin\7.21.1\cucumber-gherkin-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.21.1\cucumber-gherkin-messages-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\gherkin\31.0.0\gherkin-31.0.0.jar;C:\Users\hussa\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\hussa\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\hussa\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\datatable\7.21.1\datatable-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-plugin\7.21.1\cucumber-plugin-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\docstring\7.21.1\docstring-7.21.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\html-formatter\21.9.0\html-formatter-21.9.0.jar;C:\Users\hussa\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\hussa\.m2\repository\io\cucumber\cucumber-testng\7.21.1\cucumber-testng-7.21.1.jar;C:\Users\hussa\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\3.5.2\maven-surefire-plugin-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-api\3.5.2\surefire-api-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-logger-api\3.5.2\surefire-logger-api-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-shared-utils\3.5.2\surefire-shared-utils-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-extensions-api\3.5.2\surefire-extensions-api-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\maven-surefire-common\3.5.2\maven-surefire-common-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-booter\3.5.2\surefire-booter-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\surefire\surefire-extensions-spi\3.5.2\surefire-extensions-spi-3.5.2.jar;C:\Users\hussa\.m2\repository\org\apache\maven\resolver\maven-resolver-util\1.4.1\maven-resolver-util-1.4.1.jar;C:\Users\hussa\.m2\repository\org\apache\maven\resolver\maven-resolver-api\1.4.1\maven-resolver-api-1.4.1.jar;C:\Users\hussa\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\3.4.0\maven-common-artifact-filters-3.4.0.jar;C:\Users\hussa\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\3.14.0\maven-compiler-plugin-3.14.0.jar;C:\Users\hussa\.m2\repository\org\apache\maven\shared\maven-shared-utils\3.4.2\maven-shared-utils-3.4.2.jar;C:\Users\hussa\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\hussa\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\hussa\.m2\repository\org\apache\maven\shared\maven-shared-incremental\1.1\maven-shared-incremental-1.1.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-java\1.4.0\plexus-java-1.4.0.jar;C:\Users\hussa\.m2\repository\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;C:\Users\hussa\.m2\repository\com\thoughtworks\qdox\qdox\2.2.0\qdox-2.2.0.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-compiler-api\2.15.0\plexus-compiler-api-2.15.0.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-compiler-manager\2.15.0\plexus-compiler-manager-2.15.0.jar;C:\Users\hussa\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-xml\3.0.0\plexus-xml-3.0.0.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-compiler-javac\2.15.0\plexus-compiler-javac-2.15.0.jar;C:\Users\hussa\.m2\repository\org\codehaus\plexus\plexus-utils\4.0.1\plexus-utils-4.0.1.jar;C:\Users\hussa\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\hussa\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\hussa\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\hussa\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\hussa\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\hussa\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\hussa\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.3\log4j-core-2.24.3.jar;C:\Users\hussa\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar;C:\Users\hussa\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\hussa\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\hussa\AppData\Local\Temp\surefire3008083179864035171\surefirebooter-20250327164611140_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\hussa\AppData\Local\Temp\surefire11596481650959921902\surefirebooter-20250327171000313_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.6+8-LTS-188"/>
@@ -58,38 +58,67 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Verify user can log in into the application with valid credentials&quot;, &quot;Verify the login functionality of the website&quot;](1)" classname="runner.TestRunner" time="13.287">
+  <testcase name="runScenario[&quot;Verify user can log in into the application with valid credentials&quot;, &quot;Verify the login functionality of the website&quot;](1)" classname="runner.TestRunner" time="14.02">
     <system-out><![CDATA[
 @all @validLogin @smoke
 Scenario: Verify user can log in into the application with valid credentials # src/test/resources/features/login.feature:33
-2025-03-27T20:46:12.357696600Z main INFO Starting configuration XmlConfiguration[location=C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml, lastModified=2025-03-15T22:25:57.758Z]...
-2025-03-27T20:46:12.358696600Z main INFO Start watching for changes to C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml every 0 seconds
-2025-03-27T20:46:12.358696600Z main INFO Configuration XmlConfiguration[location=C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml, lastModified=2025-03-15T22:25:57.758Z] started.
-2025-03-27T20:46:12.360917300Z main INFO Stopping configuration org.apache.logging.log4j.core.config.DefaultConfiguration@1e7f2e0f...
-2025-03-27T20:46:12.360917300Z main INFO Configuration org.apache.logging.log4j.core.config.DefaultConfiguration@1e7f2e0f stopped.
-2025-03-27 16:46:13 [main] INFO  base.BaseTest - Driver Initialization Successful
-2025-03-27 16:46:13 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can log in into the application with valid credentials
-2025-03-27 16:46:16 [main] INFO  steps.LoginSteps - url is successfully launched
+2025-03-27T21:10:01.792958Z main INFO Starting configuration XmlConfiguration[location=C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml, lastModified=2025-03-15T22:25:57.758Z]...
+2025-03-27T21:10:01.796552Z main INFO Start watching for changes to C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml every 0 seconds
+2025-03-27T21:10:01.796552Z main INFO Configuration XmlConfiguration[location=C:\Framework-Practice\Automation-Project-CICD\target\classes\log4j2.xml, lastModified=2025-03-15T22:25:57.758Z] started.
+2025-03-27T21:10:01.798692700Z main INFO Stopping configuration org.apache.logging.log4j.core.config.DefaultConfiguration@5b69d40d...
+2025-03-27T21:10:01.798692700Z main INFO Configuration org.apache.logging.log4j.core.config.DefaultConfiguration@5b69d40d stopped.
+2025-03-27 17:10:03 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 17:10:03 [main] INFO  hooks.Hook - Starting Test Setup: Verify user can log in into the application with valid credentials
+2025-03-27 17:10:06 [main] INFO  steps.LoginSteps - url is successfully launched
   Given User is on the website homepage                                      # steps.LoginSteps.userIsOnTheWebsiteHomepage()
-2025-03-27 16:46:17 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+2025-03-27 17:10:07 [main] INFO  steps.LoginSteps - user clicked on My Account tab
   When User clicks on My Account tab                                         # steps.LoginSteps.userClicksOnMyAccountTab()
-2025-03-27 16:46:18 [main] INFO  steps.LoginSteps - user clicked on login option
+2025-03-27 17:10:08 [main] INFO  steps.LoginSteps - user clicked on login option
   And User clicks on Login option                                            # steps.LoginSteps.userClicksOnLoginOption()
-2025-03-27 16:46:19 [main] INFO  steps.LoginSteps - Assetion Passed
+2025-03-27 17:10:09 [main] INFO  steps.LoginSteps - Assetion Passed
   Then User is navigated to the Account Login page                           # steps.LoginSteps.userIsNavigatedToTheAccountLoginPage()
-2025-03-27 16:46:20 [main] INFO  steps.LoginSteps - user entered email
+2025-03-27 17:10:10 [main] INFO  steps.LoginSteps - user entered email
   When User enters the email "habibi1@gmail.com" in the email input field    # steps.LoginSteps.userEntersTheEmailInTheEmailInputField(java.lang.String)
-2025-03-27 16:46:21 [main] INFO  steps.LoginSteps - user entered password
+2025-03-27 17:10:11 [main] INFO  steps.LoginSteps - user entered password
   And User enters the password "habibi" in the password input field          # steps.LoginSteps.userEntersThePasswordInThePasswordInputField(java.lang.String)
-2025-03-27 16:46:23 [main] INFO  steps.LoginSteps - user clicked on the loging button
+2025-03-27 17:10:14 [main] INFO  steps.LoginSteps - user clicked on the loging button
   And User clicks on the Login button                                        # steps.LoginSteps.userClicksOnTheLoginButton()
-2025-03-27 16:46:24 [main] INFO  steps.LoginSteps - Assertion Passed
-2025-03-27 16:46:24 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 17:10:15 [main] INFO  steps.LoginSteps - Assertion Passed
+2025-03-27 17:10:15 [main] INFO  steps.LoginSteps - Assertion Passed
   Then User is navigated to the My Account page                              # steps.LoginSteps.userIsNavigatedToTheMyAccountPage()
-2025-03-27 16:46:24 [main] INFO  hooks.Hook - Test Execution Completed
-2025-03-27 16:46:25 [main] INFO  base.BaseTest - Closing Browser
+2025-03-27 17:10:15 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 17:10:15 [main] INFO  base.BaseTest - Closing Browser
 ]]></system-out>
-    <system-err><![CDATA[Mar 27, 2025 4:46:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Mar 27, 2025 5:10:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 134, returning the closest version; found: 133; Please update to a Selenium version that supports CDP version 134
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Verify user cannot log in into the application with invlaid password&quot;, &quot;Verify the login functionality of the website&quot;](2)" classname="runner.TestRunner" time="12.059">
+    <system-out><![CDATA[
+@all @invalidPassword @smoke
+Scenario: Verify user cannot log in into the application with invlaid password            # src/test/resources/features/login.feature:44
+2025-03-27 17:10:16 [main] INFO  base.BaseTest - Driver Initialization Successful
+2025-03-27 17:10:16 [main] INFO  hooks.Hook - Starting Test Setup: Verify user cannot log in into the application with invlaid password
+2025-03-27 17:10:18 [main] INFO  steps.LoginSteps - url is successfully launched
+  Given User is on the website homepage                                                   # steps.LoginSteps.userIsOnTheWebsiteHomepage()
+2025-03-27 17:10:20 [main] INFO  steps.LoginSteps - user clicked on My Account tab
+  When User clicks on My Account tab                                                      # steps.LoginSteps.userClicksOnMyAccountTab()
+2025-03-27 17:10:21 [main] INFO  steps.LoginSteps - user clicked on login option
+  And User clicks on Login option                                                         # steps.LoginSteps.userClicksOnLoginOption()
+2025-03-27 17:10:22 [main] INFO  steps.LoginSteps - Assetion Passed
+  Then User is navigated to the Account Login page                                        # steps.LoginSteps.userIsNavigatedToTheAccountLoginPage()
+2025-03-27 17:10:23 [main] INFO  steps.LoginSteps - user entered email
+  When User enters the email "aseela@gmail.com" in the email input field                  # steps.LoginSteps.userEntersTheEmailInTheEmailInputField(java.lang.String)
+2025-03-27 17:10:24 [main] INFO  steps.LoginSteps - user entered password
+  And User enters the password "xyz" in the password input field                          # steps.LoginSteps.userEntersThePasswordInThePasswordInputField(java.lang.String)
+2025-03-27 17:10:26 [main] INFO  steps.LoginSteps - user clicked on the loging button
+  And User clicks on the Login button                                                     # steps.LoginSteps.userClicksOnTheLoginButton()
+2025-03-27 17:10:27 [main] INFO  steps.LoginSteps - Assertion Passed
+  Then User gets an error message "Warning: No match for E-Mail Address and/or Password." # steps.LoginSteps.userGetsAnErrorMessage(java.lang.String)
+2025-03-27 17:10:27 [main] INFO  hooks.Hook - Test Execution Completed
+2025-03-27 17:10:27 [main] INFO  base.BaseTest - Closing Browser
+]]></system-out>
+    <system-err><![CDATA[Mar 27, 2025 5:10:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 134, returning the closest version; found: 133; Please update to a Selenium version that supports CDP version 134
 ]]></system-err>
   </testcase>
